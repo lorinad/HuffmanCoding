@@ -10,12 +10,13 @@ Huffman's method can be efficiently implemented, finding a code in time linear t
 
 ## Built with
 
-Java using Binary Trees
+Binary Trees data structures, JAVA
 
 ## Created for 
-Algorithms and Data Structes cource CS245
+Algorithms and Data Structes CS245
+
 University Of San Francisco
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License
